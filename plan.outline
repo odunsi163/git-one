@@ -1,0 +1,17 @@
+odunsi-ibrahim-portfolio/
+│
+├── index.html (Homepage)
+├── about.html (About Me)
+├── portfolio.html (Portfolio)
+├── skills.html (Skills)
+├── contact.html (Contact)
+├── css/
+│   ├── styles.css (Main stylesheet)
+│   └── responsive.css (Responsive design)
+├── js/
+│   └── scripts.js (Interactive JavaScript functionalities)
+└── images/
+    ├── profile.jpg (Your picture)
+    ├── project1.jpg
+    ├── project2.jpg
+    └── project3.jpg
